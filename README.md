@@ -1,4 +1,33 @@
-### Hi there 👋
+### Yooha! I'm Simba 👋
+
+<p>
+  <p align="center">
+    <a
+      href="https://i.loli.net/2020/12/31/TPQqorCyO3uvnX4.jpg"   
+      target="__blank"
+    >
+      <img 
+        src="https://i.loli.net/2020/12/31/TPQqorCyO3uvnX4.jpg" 
+        width="500"
+      />
+    </a>
+  </p>
+  
+  <p align="center">
+    👇About me <br />
+  👉About me   https://www.idrlzt.cn About me👈 <br />
+    👆About me
+  </p>
+  
+</p>
+
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+`// TODO`
+
+ ---
+![https://github-readme-stats.vercel.app/api?username=CrankySImba&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api?username=CrankySImba&show_icons=true&theme=dracula)
 
 <!--
 **CrankySimba/CrankySimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
