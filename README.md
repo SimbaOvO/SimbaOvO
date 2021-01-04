@@ -1,4 +1,3 @@
-# Yooha
 <h1 align="center">𝒀𝒐𝒐𝒉𝒂 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, 𝑰‘𝒎 𝑺𝒊𝒎𝒃𝒂🐽</h1>
 <h4 align="center">🏃‍ 𝑩𝒆𝒄𝒐𝒎𝒊𝒏𝒈 𝑨 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</h4>
 
