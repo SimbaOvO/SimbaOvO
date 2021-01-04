@@ -1,10 +1,10 @@
-<h1 align="center">𝒀𝒐𝒐𝒉𝒂 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, 𝑰‘𝒎 𝑺𝒊𝒎𝒃𝒂🐽</h1>
+<h1 align="center">𝒀𝒐𝒐𝒉𝒂 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, 𝑰‘𝒎 𝑺𝒊𝒎𝒃𝒂 🐽</h1>
 <h4 align="center">🏃‍ 𝑩𝒆𝒄𝒐𝒎𝒊𝒏𝒈 𝑨 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</h4>
 
 <p>
   <p align="center">
     <a
-      href="https://i.loli.net/2020/12/31/TPQqorCyO3uvnX4.jpg"   
+      href="https://www.idrlzt.cn"   
       target="__blank"
     >
       <img 
@@ -22,7 +22,7 @@
   
 </p>
 
-<h2 align="center">𝑻𝒐𝒐𝒍𝒔</h2>
+<h2 align="center">🔨 𝑻𝒐𝒐𝒍𝒔</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
@@ -34,7 +34,7 @@
 </p>
 
 
-<h2 align="center">𝑺𝒕𝒂𝒕𝒔</h2>  
+<h2 align="center">📈 𝑺𝒕𝒂𝒕𝒔</h2>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CrankySImba&show_icons=true&theme=material-palenight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrankySimba&exclude_repo=CrankySimba.github.io&layout=compact&theme=material-palenight" />
