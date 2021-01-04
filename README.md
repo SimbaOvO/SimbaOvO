@@ -35,9 +35,10 @@
 
 
 <h2 align="center">𝑺𝒕𝒂𝒕𝒔</h2>  
-
-![https://github-readme-stats.vercel.app/api?username=CrankySImba&show_icons=true&theme=dracula&count_private=true](https://github-readme-stats.vercel.app/api?username=CrankySImba&show_icons=true&theme=material-palenight&count_private=true)
-![https://github-readme-stats.vercel.app/api/top-langs/?username=CrankySimba&exclude_repo=CrankySimba.github.io&layout=compact&theme=material-palenight](https://github-readme-stats.vercel.app/api/top-langs/?username=CrankySimba&exclude_repo=CrankySimba.github.io&layout=compact&theme=material-palenight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CrankySImba&show_icons=true&theme=material-palenight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrankySimba&exclude_repo=CrankySimba.github.io&layout=compact&theme=material-palenight" />
+</p>
 
 <!--
 **CrankySimba/CrankySimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
