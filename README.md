@@ -9,7 +9,6 @@
     >
       <img 
         src="https://i.loli.net/2020/12/31/TPQqorCyO3uvnX4.jpg" 
-        width="500"
       />
     </a>
   </p>
