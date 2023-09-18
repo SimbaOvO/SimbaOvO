@@ -40,7 +40,6 @@
 
 <h2 align="center">📈 𝑺𝒕𝒂𝒕𝒔</h2>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimbaOvO&show_icons=true&theme=material-palenight&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimbaOvO&exclude_repo=SimbaOvO.github.io&layout=compact&theme=material-palenight" />
 </p>
 
