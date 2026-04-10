@@ -40,7 +40,7 @@
 
 <h2 align="center">📈 𝑺𝒕𝒂𝒕𝒔</h2>  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimbaOvO&exclude_repo=SimbaOvO.github.io&layout=compact&theme=material-palenight" />
+  <img src="https://streak-stats.demolab.com/?user=SimbaOvO" />
 </p>
 
 <!--
