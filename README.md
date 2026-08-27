@@ -38,9 +38,9 @@
 </p>
 
 
-<h2 align="center">📈 𝑺𝒕𝒂𝒕𝒔</h2>  
+<h2 align="center">📈 𝑺𝒕𝒂𝒕𝒔</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SimbaOvO" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimbaOvO&theme=graywhite&bg_color=FFFFFF&title_color=111111&text_color=242424&border_color=E6E6E6&icon_color=111111&chart_color=111111" />
 </p>
 
 <!--
